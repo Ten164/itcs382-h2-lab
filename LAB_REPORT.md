@@ -49,7 +49,7 @@ State in one sentence where you think the parcels of the first run were kept.
 
 ```
 
-Commit that adds findAll:
+Commit that adds findAll: f5330b8
 
 0.12 Output of `SELECT * FROM PARCEL;` after the pickup:
 

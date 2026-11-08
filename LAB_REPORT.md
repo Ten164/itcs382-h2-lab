@@ -13,7 +13,7 @@ Repository URL:
 
 ## Part 0. From a store in memory to H2
 
-Commit of the starter, before any change:
+Commit of the starter, before any change: 84ac848
 
 0.3 Your prediction for `staff`, written before the second run:
 
